@@ -1,4 +1,4 @@
-package com.company;
+package pl.adcom;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ public class Main {
     static int changeLogCount = 0;
 
     public static void main(String[] args) {
-	// write your code here
+
         Scanner scanner = new Scanner(System.in);
         int radix;
         boolean isApplicationRun = true;
